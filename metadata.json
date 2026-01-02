@@ -1,0 +1,5 @@
+{
+  "name": "EV Bet Tracker",
+  "description": "A sophisticated, client-side application to track Positive Expected Value (+EV) sports bets. Log your wagers, analyze performance across different bet types and leagues, and refine your strategy with insightful data visualizations.",
+  "requestFramePermissions": []
+}
